@@ -6,7 +6,7 @@ set_site_information(
     author="Wassil",
     description="Testing deploy.",
     sources="Thanks to the Drafter docs and my study group.",
-    planning=["plan.pdf", "design.pdf"],
+    planning=["Planning.pdf", "Design.pdf"],
     links=["https://github.com/KTWass/testing"]
 )
 hide_debug_information()
