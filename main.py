@@ -7,7 +7,7 @@ set_site_information(
     description="Testing deploy.",
     sources="Thanks to the Drafter docs and my study group.",
     planning=["Planning.pdf", "Design.pdf"],
-    links=["https://github.com/KTWass/testing"]
+    links=["https://github.com/KTWass/testing/blob/main/Planning.pdf","https://github.com/KTWass/testing/blob/main/Design.pdf"]
 )
 hide_debug_information()
 set_website_framed(False)
