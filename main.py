@@ -21,7 +21,7 @@ class State:
 @route
 def index(state: State) -> Page:
     return Page(state, [
-        "Hunger: " + str(state.hunger) + "\n",
+        "Hunger 1: " + str(state.hunger) + "\n",
         "Energy: " + str(state.energy) + "\n",        
         "Mood: " + pet_mood(state) + "\n",
         Button("Feed", "feed"),
